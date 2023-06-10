@@ -1,0 +1,8 @@
+{
+  "aps": {
+    "alert": "New notification!",
+    "sound": "default",
+    "link_url": "https://github.com/quavodanceq",
+    "category": "NOTIFICATION_CATEGORY"
+  }
+}
